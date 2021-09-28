@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Oguz Toragay / Personal website"
+title                    : "Oguz Toragay"
 title_separator          : "-"
 name                     : &name "Oguz Toragay"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Oguz Toragay"
   avatar           : "ot2.jpg"
-  bio              : "In manam"
+  bio              : "Ph.D. canditate in Industrial and Systems Engineering"
   location         : "Auburn/Al"
   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -95,7 +95,7 @@ author:
 #   dribbble         :
 #   flickr           :
 #   facebook         :
-  foursquare       :
+#   foursquare       :
   github           : "https://github.com/oguztoragay"
 #   google_plus      :
 #   keybase          :
