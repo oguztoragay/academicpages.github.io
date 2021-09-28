@@ -2,19 +2,27 @@
 title: "TA experience"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2016-spring-teaching-1
+permalink: /teaching/TA
 venue: "Auburn University, Department of Industrial and Systems Engineering"
-date: 2016-01-14
+<!-- date: 2016-01-14 -->
 location: "Auburn, Alabam"
 ---
 
+Probability and Statistics 1
+======
 For this course I was a Teaching Assistant. The course instructor was [Dr. Ashkan Negahban](https://greatvalley.psu.edu/person/ashkan-negahban). The course covered introductory discussions in Probability and Statistics. 
 
-Heading 1
+Stochastic Optimization 
 ======
 
-Heading 2
+
+Dynamic Programming
 ======
 
-Heading 3
+
+Manufacturing Systems II 
+======
+
+
+Manufacturing Systems I
 ======
