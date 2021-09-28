@@ -28,8 +28,7 @@ Lightweight structures has applications in aerospace, automotive and medical fie
 
 Teaching
 ======
-I had the chance for teaching an undergrad course for which I was the instructor of record and I was able to successfully implement mu teaching philosophy. For the concepts in
-my course to be better understood by the students, I designed and implemented several projects in order to enhance the available Lab. For the Lab’s upgrade, I designed three projects for PLCs, Vision systems, and Machine guarding topics. The student evaluations showed that it was a successful semester for me as the instructor, in my teaching role. 
+I had the chance for teaching an undergrad course for which I was the instructor of record and I was able to successfully implement my teaching philosophy. The student evaluations showed that it was a successful semester for me as the instructor. For details of my teaching experience, visit the "Teaching" tab.  
 
 
 Site-wide configuration
