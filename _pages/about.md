@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am Oguz Toragay, a Ph.D. Candidate in [Industrial and Systems Engineering Department](https://eng.auburn.edu/insy/) at [Auburn University](http://www.auburn.edu/). I hold a M.Sc. degree in [Industrial Engineering](https://mf-em.gazi.edu.tr/?language=en_US) from [Gazi University](https://gazi.edu.tr/?language=en_US) in Turkey and a B.Sc. degree in Applied Mathematics from Khayyam University in Iran.  
+During my Ph.D., I involved in a multidisciplinary project in collaboration with Mechanical Engineering and National Center for Additive Manufacturing Excellence (NCAME) at Auburn University. I, specifically work on applications of various optimization methods to optimize the design of lightweight structures for Additive Manufacturing (AM). We proposed a new mathematical model for the complex problem of designing lightweight planar frame structures using Mixed Integer Quadratically Constrained Programming approach. Our paper, presenting the proposed idea, is under review with one of the major journals in the field, “Structural and Multidisciplinary Optimization Journal”. I am currently working on promising applications of heuristic and metaheuristic methods to solve large-scale design problems for AM. My research is impactful in terms of bringing the optimization methods and AM closer. Lightweight structures has applications in aerospace, automotive and medical areas for which optimized design is highly important. In our research, we tackle this engineering problem and I believe our contributions will have significant impact in the field.
+Beside the experience of teaching labs and courses at Auburn University, I also have a 6 years’ experience of working in an international and humanitarian organization (UNHCR). My work ethic is tailored around the idea of inclusion, diversity, respect, and hard work. I am passionate for research, problem solving, and analytical thinking in interdisciplinary areas. With my background, experience and knowledge, I am well prepared for an ideal academic job.
+
 
 A data-driven personal website
 ======
