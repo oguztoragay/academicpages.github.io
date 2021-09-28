@@ -8,16 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-I am **Oguz Toragay**, a Ph.D. Candidate in [Industrial and Systems Engineering Department](https://eng.auburn.edu/insy/) at [Auburn University](http://www.auburn.edu/). I hold a M.Sc. degree in [Industrial Engineering](https://mf-em.gazi.edu.tr/?language=en_US) from [Gazi University](https://gazi.edu.tr/?language=en_US) in Turkey and a B.Sc. degree in Applied Mathematics from Khayyam University in Iran.  
-During my Ph.D., I involved in a multidisciplinary project in collaboration with Mechanical Engineering and National Center for Additive Manufacturing Excellence (NCAME) at Auburn University. I, specifically work on applications of various optimization methods to optimize the design of lightweight structures for Additive Manufacturing (AM). We proposed a new mathematical model for the complex problem of designing lightweight planar frame structures using Mixed Integer Quadratically Constrained Programming approach. Our paper, presenting the proposed idea, is under review with one of the major journals in the field, “Structural and Multidisciplinary Optimization Journal”. I am currently working on promising applications of heuristic and metaheuristic methods to solve large-scale design problems for AM. My research is impactful in terms of bringing the optimization methods and AM closer. Lightweight structures has applications in aerospace, automotive and medical areas for which optimized design is highly important. In our research, we tackle this engineering problem and I believe our contributions will have significant impact in the field.
-Beside the experience of teaching labs and courses at Auburn University, I also have a 6 years’ experience of working in an international and humanitarian organization (UNHCR). My work ethic is tailored around the idea of inclusion, diversity, respect, and hard work. I am passionate for research, problem solving, and analytical thinking in interdisciplinary areas. With my background, experience and knowledge, I am well prepared for an ideal academic job.
+I am **Oguz Toragay**, a Ph.D. Candidate in [Industrial and Systems Engineering Department](https://eng.auburn.edu/insy/) at [Auburn University](http://www.auburn.edu/). I hold a M.Sc. degree in [Industrial Engineering](https://mf-em.gazi.edu.tr/?language=en_US) from [Gazi University](https://gazi.edu.tr/?language=en_US) in Turkey and a B.Sc. degree in Applied Mathematics from Khayyam University in Iran.
+
+Some of my academic activities during my Ph.D. journey, are included in this webpage.
+
 
 
 A data-driven personal website
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+During my Ph.D., I involved in a multidisciplinary project in collaboration with Mechanical Engineering and National Center for Additive Manufacturing Excellence (NCAME) at Auburn University. 
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+I, specifically work on applications of various optimization methods to optimize the design of lightweight structures for Additive Manufacturing (AM). We proposed a new mathematical model for the complex problem of designing lightweight planar frame structures using Mixed Integer Quadratically Constrained Programming approach. 
+
+Our paper, presenting the proposed idea, is under review with one of the major journals in the field, “Structural and Multidisciplinary Optimization Journal”.
+
+I am currently working on applications of heuristic and metaheuristic methods to solve large-scale design problems for AM. My research is impactful in terms of bringing the optimization methods and AM closer. 
+
+Lightweight structures has applications in aerospace, automotive and medical fields for which having an optimized design is highly important. In our research, we tackle this engineering problem and I believe our contributions will have significant impact in the field.
+
+Beside the experience of teaching labs and courses at Auburn University, I also have a 6 years’ experience of working in an international and humanitarian organization (UNHCR). My work ethic is tailored around the idea of inclusion, diversity, respect, and hard work. I am passionate for research, problem solving, and analytical thinking in interdisciplinary areas. With my background, experience and knowledge, I am well prepared for an ideal academic job.
 
 Getting started
 ======
