@@ -1,7 +1,7 @@
 ---
-title: "Teaching Assistant experience"
+title: "TA experience"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate courses"
 permalink: /teaching/TA
 venue: "Auburn University, Department of Industrial and Systems Engineering"
 date: 2016-01-14
