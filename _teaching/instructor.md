@@ -1,7 +1,7 @@
 ---
 title: "Teaching Experience"
 collection: teaching
-type: "course"
+type: "Undergraduate course"
 permalink: /teaching/instructor
 venue: "Auburn University, Department of Industrial and Systems Engineering"
 date: 2020-Spring
