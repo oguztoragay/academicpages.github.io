@@ -1,5 +1,5 @@
 ---
-title: "TA experience"
+title: "Teaching Assistant"
 collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/TA
