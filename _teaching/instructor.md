@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/instructor
 venue: "Auburn University, Department of Industrial and Systems Engineering"
-date: 2020-Spring
+date: 2020-08-01
 location: "Auburn, Alabama"
 ---
 
