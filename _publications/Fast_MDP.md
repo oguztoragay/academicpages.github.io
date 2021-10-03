@@ -1,7 +1,7 @@
 ---
 title: "Fast Heuristic Approach for Control of Complex Authentication Systems"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/Fast_MDP
 excerpt: 'This paper is about the application of Markov Decision Processes in secure networks authentication.'
 date: 2021-01-05
 venue: 'Applied Stochastic Models in Business and Industry, Vol: 37, Issue: 4,'
