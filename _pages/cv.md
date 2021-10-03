@@ -28,7 +28,7 @@ Work experience
   * Tools: Parallel computing in Matlab & Mdp Toolbox.
 * United Nations High Commissioner for Refugees Ankara
   * RSD Scheduling Assistant 2009–2015
-  * Job Description: Leader of a team of four employees who prepared the weekly schedule for Refugee Status Determination and Protection interviews of the asylum-seekers in Turkey.
+  * Job Description: Leading a team of four employees who prepared the weekly schedule for Refugee Status Determination and Protection interviews of the asylum-seekers in Turkey.
   * Supervisor: Mr. Resit Akif Atli
   
 Skills
