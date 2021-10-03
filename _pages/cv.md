@@ -11,21 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Industrial and Systems Engineering, 2021, Auburn University, Auburn/AL, United States
+* M.Eng. in Industrial and Systems Engineering, 2018, Auburn University, Auburn/AL, United States
+* M.Sc. in Industrial Engineering, 2011, Gazi University, Ankara, Turkey
+* B.Sc. in Applied Mathematics, 2004, Khayyam University, Mashhad, Iran
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Auburn University USA
+  * Graduate Research Assistant, Funded by FAA 2019–2021
+  * Topic: Topology optimization of light weight structures for Additive Manufacturing.
+  * Tools: Matlab, Python, Pyomo, Ampl & Abaqus (structural analysis software)
+* Auburn University USA
+  * Graduate Research Assistant 2017–2018
+  * Topic: Applications of Queueing models and Markov Decision Processes in Secure Networks.
+  * Tools: Parallel computing in Matlab & Mdp Toolbox.
+* United Nations High Commissioner for Refugees Ankara
+  * RSD Scheduling Assistant 2009–2015
+  * Job Description: Leader of a team of four employees who prepared the weekly schedule for Refugee Status Determination and Protection interviews of the asylum-seekers in Turkey.
+  * Supervisor: Mr. Resit Akif Atli
   
 Skills
 ======
