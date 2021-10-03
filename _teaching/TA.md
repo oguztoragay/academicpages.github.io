@@ -8,9 +8,6 @@ date: 2016-01-14
 location: "Auburn, Alabam"
 ---
 
-
-
-
 Probability and Statistics I
 ---
 For this course I was a Teaching Assistant. The course instructor was [Dr. Ashkan Negahban](https://greatvalley.psu.edu/person/ashkan-negahban). The course covered introductory discussions in Probability and Statistics. 
