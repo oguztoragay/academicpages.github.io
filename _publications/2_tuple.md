@@ -13,7 +13,7 @@ attempt to measure their performance and to enhance their standards. In general,
 
 [Download paper here](https://www.researchgate.net/profile/Oguz-Toragay/publication/301887104_Performance_Evaluation_of_Faculty_Departments_by_a_Delphi_Method_Based_on_2-Tuple_fuzzy_Linguistic_Representation_Model_and_TOPSIS/links/572ad62508aef7c7e2c4ff62/Performance-Evaluation-of-Faculty-Departments-by-a-Delphi-Method-Based-on-2-Tuple-fuzzy-Linguistic-Representation-Model-and-TOPSIS.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: TORAGAY, Oguz, and Murat ARIKAN. "Performance Evaluation of Faculty Departments by a Delphi Method Based on 2-Tuple fuzzy Linguistic Representation Model and TOPSIS." International Journal of Basic & Applied Sciences 15 (2015): 1-10.
 
 
 “Performance Evaluation of Faculty Departments by a Delphi Method Based on 2-Tuple fuzzy
