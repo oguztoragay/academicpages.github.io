@@ -15,3 +15,9 @@ Fall 2020, I had the chance to teach an undergrade course (_Manufacturing System
 > *Oguz did a great job teaching this course this semester! The material was very graspable and I retained more from this class from most others I took this semester*
 
 > *Dr. Toragay is an excellent professor. He seems to understand the material well and cares about the success if his students. I would take a class from him again. He teaches right from the slides, but the slides are content packed. He delivers the information well. The robot project could have used a little more explaining, but it was a good project and I learned a lot from it.*
+
+> *Professor Toragay was very engaged during class. Although it is harder to teach students remotely, I felt that he did an excellent job in conveying our material.*
+
+> *Professor Oguz did a great job on lectures and providing feedback for our group project. My only downside to this class were the labs. They were very challenging to do with the remote desktop and I do not feel like I got any bene¦cial knowledge out of them by doing them online.*
+
+> *The project and especially the labs that were assigned was very hard and inconvenient to perform giving the circumstances of this semester.*
