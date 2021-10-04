@@ -1,5 +1,5 @@
 ---
-title: "Performance Evaluation of the Departments in Engineering College of a University by Utilizing TOPSIS and Fuzzy Delphi"
+title: "Performance Evaluation of the Departments in Engineering College of a University by Utilizing TOPSIS and Fuzzy Delphi (in Turkish)"
 collection: publications
 permalink: /publication/TOPSIS_Fuzzy_Delphi
 excerpt: ''
