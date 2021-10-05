@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /files/OToragay_CV.pdf
 author_profile: true
 redirect_from:
   - /resume
@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-My Curriculum vitae can be downloaded from [this](./files/OToragay_CV.pdf) link.
+My Curriculum vitae can be downloaded from [this](/files/OToragay_CV.pdf) link.
