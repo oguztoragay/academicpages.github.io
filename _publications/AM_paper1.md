@@ -2,6 +2,7 @@
 title: "Exact Global Optimization of Frame Structures for Additive Manufacturing"
 collection: publications
 excerpt: 'Under review with **Structural and Multidisciplinary Optimization Journal**'
+date: 2021-10-15
 venue: ''
 paperurl: ''
 citation: ''
