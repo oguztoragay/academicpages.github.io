@@ -8,3 +8,5 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+My Curriculum vitae can be downloaded from [this]{} link.
