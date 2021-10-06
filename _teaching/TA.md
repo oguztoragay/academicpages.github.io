@@ -2,7 +2,7 @@
 title: "Teaching Assistant"
 collection: teaching
 type: "Undergraduate courses"
-permalink: /teaching/TA
+permalink: /teaching/
 venue: "Auburn University, Department of Industrial and Systems Engineering"
 date: 2016-01-14
 location: "Auburn, Alabam"
