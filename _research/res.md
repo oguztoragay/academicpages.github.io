@@ -1,6 +1,6 @@
 ---
 title: "Research in Additive Manufacturing"
-collection: research
+collection: teaching
 permalink: /research/
 ---
 
