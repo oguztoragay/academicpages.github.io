@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-:raised_hand_with_fingers_splayed: I am **Oguz Toragay**, a Ph.D. Candidate in [Industrial and Systems Engineering Department](https://eng.auburn.edu/insy/) at [Auburn University](http://www.auburn.edu/). I hold a M.Sc. degree in [Industrial Engineering](https://mf-em.gazi.edu.tr/?language=en_US) from [Gazi University](https://gazi.edu.tr/?language=en_US) in Turkey and a B.Sc. degree in Applied Mathematics from Khayyam University in Iran.
+I am **Oguz Toragay**, a Ph.D. Candidate in [Industrial and Systems Engineering Department](https://eng.auburn.edu/insy/) at [Auburn University](http://www.auburn.edu/). I hold a M.Sc. degree in [Industrial Engineering](https://mf-em.gazi.edu.tr/?language=en_US) from [Gazi University](https://gazi.edu.tr/?language=en_US) in Turkey and a B.Sc. degree in Applied Mathematics from Khayyam University in Iran.
 
 Some of my academic activities during my Ph.D. journey, are included in this webpage.
 
