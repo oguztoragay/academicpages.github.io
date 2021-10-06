@@ -1,5 +1,5 @@
 # Instructor of Records
-===
+------
 
 Manufacturing Systems I
 ---
@@ -17,7 +17,7 @@ Fall 2020, I had the chance to teach an undergrade course (_Manufacturing System
 
 
 # Teaching Assistant Experience
-===
+------
 
 ## Probability and Statistics I
 
