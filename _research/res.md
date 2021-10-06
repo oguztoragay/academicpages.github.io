@@ -1,7 +1,7 @@
 ---
 title: "Research in Additive Manufacturing"
 collection: research
-permalink: /teaching/AM
+permalink: /research/
 ---
 
 ## Research Interests: 
