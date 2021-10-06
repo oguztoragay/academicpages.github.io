@@ -4,5 +4,30 @@ collection: research
 permalink: /teaching/AM
 ---
 
+## Research Interests: 
+My research interests are focused in the areas of Operations Research (OR) and manufacturing, with an emphasis on Topology Optimization (TO), Nonlinear Programming (NLP), Markov Decision Processes (MDP), decision making under uncertainty, and Additive Manufacturing (AM). 
 
-Hello World!
+## Research To Date 
+As part of my Ph.D. dissertation, I am currently working on an interdisciplinary project which investigates opportunities for incorporating optimization methods for the design and fabrication of  functionally  graded  structures  for  AM. As a member of National Center for Additive Manufacturing Excellence (NCAME), together with researchers from Auburn’s Mechanical Engineering Department, we proposed new approaches to model and solve the design problem of lightweight structures for AM. These structures have many applications in aerospace, automotive, and medical industries. As an outcome of this collaboration,  in my ﬁrst journal paper, I proposed three diﬀerent modeling approaches to ﬁnd the lightweight frame structures for AM, namely Mixed Integer Nonlinear Programming (MINLP), linearization of that model, i.e., Mixed Integer Linear Programming (MILP)  using decomposition techniques, and Mixed Integer Quadratically Constrained Programming (MIQCP) in which we further structured the MINLP problem to enhance the solvers’ performance. Because of binary variables, these models are non-convex and NP-hard. We also proposed a solving approach for these mathematical models. 
+
+In our second paper, we proposed a novel iterative heuristic method to solve large-scale TO problems, speciﬁcally the design of lightweight frame structures for metal additive manufacturing which cannot be solved otherwise. We could drastically reduce the solving time for these problems which  otherwise  need  huge  computational  resources  to  be  solved. On another parallel path, I am currently working on the applications of a combination of Graph theory, Matrix algebra, and Finite element methods in the ﬁled of structural optimization. 
+
+As a side-project, I worked on the applications of Markov Decision Process in the admission control  to  secure  systems.   In  this  task, we  considered  a  system  where  requests  for  authentication  come  from  several  customer  classes,  where  each  class  has  a  known  impostor  probability. 
+
+The system has several authentication servers, characterized by error probabilities and operating costs.  The objective is to balance security and user experience.       We developed a novel heuristic approach  to  solve  the  problem  in  dramatically  reduced  solving  time  compared  to  the  classical MDP  solving  methods.     Using  this  approach  we  generated  the  optimal  server  assignment  policy for authentication systems which could not be otherwise solved due to curse of dimensionality. 
+
+## Proposed  Research 
+
+It is my research philosophy that to advance the ﬁeld of OR we must research both theoretical and computational aspects, as well as keeping industry ties and ensuring that our developments are implemented.  Therefore, I intend to continue pursuing new avenues of research in the following fronts: 
+
+**Enhancing  the  OR,  AM  interactions.** Applications of OR in AM can be extended in many directions,  such  as  optimization  in  the  design  stage  using  complex  mathematical  modeling  approaches  such  as  MPECs,  MIQCPs  and  etc.,  optimization  of  the  fabrication  process  using  data analytics approaches, managing and enhancing supply chain for AM, and developing user-friendly OR-based computational tools.  I plan to propose new research contributions to bring OR and AM closer.  These  proposals  aim  for  multidisciplinary  collaborations  of  researchers  from  mechanical and Industrial engineering ﬁelds and target grants from National Science Foundation (NSF). 
+
+**Industry  applications  of  OR.** A new Wohlers Report 2021([here](https://wohlersassociates.com/press83.html) ) ﬁnds 7.5% growth in the Additive Manufacturing  industry  despite  the  eﬀects  of  the  Covid-19  pandemic. Many  companies  have adopted AM considering its impacts on environmental issues, revenue growth, sustainability and waste  reduction,  and  also  the  possibilities  that  comes  with  AM,  such  as  reduced  lead  time  and on-demand manufacturing, generative design and biomimicry, and custom product manufacturing. While adopting this relatively new technology, those companies represent a huge potential for the researchers in the ﬁeld for collaboration and for working on real-world applications of developed tools  and  OR-backed  theoretical  aspects. Exploiting  this  opportunity,  I  plan  to  build  up  connections  and  relationships  with  those  companies,  which  means  potential  collaborations  between academia and industry via scientiﬁc proposal and grants.  Based on my current collaboration in the projects funded by National Aeronautics and Space Administration (NASA) and Federal Aviation Administration (FAA), I plan to write grants for collaboration with major AM applicants such as NASA, FAA and GE Aviation. 
+
+**Computational tools for OR.** While using modeling environments and packages such as AMPL and  Pyomo  in  my  research,  I  saw  the  potential  for  enhancements  in  these  computational  tools. In  other  words,  collaborating  with  diﬀerent  ﬁelds  of  engineering  and  understanding  their  needs, generated the idea that these tools can be enhanced in order to satisfy the sophisticated modeling needs  that  raise  from  various  engineering  ﬁelds.        In  this  regard,  I  plan  to  have  collaborations with Software engineering, Mechanical engineering and Civil engineering departments to develop advance computational tools that alleviate inadequacy of optimization packages’ functionality in those ﬁelds.  As an example, Pyomo (which is an open source mathematical modeling package for python)  does  not  support  deﬁning  variables  in  matrix  form  which  is  necessary  for  solving  ﬁnite element problems in mechanical and civil engineering applications. 
+
+
+
+   
+
+
