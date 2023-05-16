@@ -43,9 +43,12 @@ This course provided an introduction to the design and operation of manufacturin
 Classical industrial and systems engineering related to the design and evaluation of manufacturing systems and the understanding of manufacturing processes. The course was taught by [Dr. Richard Garnett](https://eng.auburn.edu/directory/rfg0004).
 
 # At LTU (Since Fall 2022)
-
 ## *Production, Planning and Control*
+> *This class challenged my abilities as a student. I really enjoyed the course overall with this instructor. I really appreciated the study review days that was implemented into the course. Not only did it prepare me for the exams but it really motivated me to study the content thoroughly and help guide me on what material I need to focus. (Helped me effectively study).*
+
+Evaluation: 4.58/5
+
 ## *Applied Stochastic Processes (Graduate level course)*
 ## *Plant Layout*
 ## *Simulation in System Design*
-## *Advanced Optimization Techniques*
+## *Advanced Optimization Techniques (Graduate level course)*
