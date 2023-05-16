@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am **Oguz Toragay**, a Ph.D. Candidate in [Industrial and Systems Engineering Department](https://eng.auburn.edu/insy/) at [Auburn University](http://www.auburn.edu/). I hold a M.Sc. degree in [Industrial Engineering](https://mf-em.gazi.edu.tr/?language=en_US) from [Gazi University](https://gazi.edu.tr/?language=en_US) in Turkey and a B.Sc. degree in Applied Mathematics from Khayyam University in Iran.
-
-Some of my academic activities during my Ph.D. journey, are included in this webpage.
+In 2022, I graduated with a Ph.D. in [Industrial and Systems Engineering Department](https://eng.auburn.edu/insy/) from [Auburn University](http://www.auburn.edu/) at Auburn/AL. I hold a M.Sc. degree in [Industrial Engineering](https://mf-em.gazi.edu.tr/?language=en_US) from [Gazi University](https://gazi.edu.tr/?language=en_US) in Turkey and a B.Sc. degree in Applied Mathematics from Khayyam University in Iran. In Fall 2022 I started my career as a tenure-track Assisatnt Professor at the A. [Leon Linton Department of Mechanical, Robotics, And Industrial Engineering](https://www.ltu.edu/engineering/mrie) at Lawrence Technological University in Detroit/MI.
 
 
 Research
