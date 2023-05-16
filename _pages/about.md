@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-In 2022, I graduated with a Ph.D. in [Industrial and Systems Engineering Department](https://eng.auburn.edu/insy/) from [Auburn University](http://www.auburn.edu/) at Auburn/AL. I hold a M.Sc. degree in [Industrial Engineering](https://mf-em.gazi.edu.tr/?language=en_US) from [Gazi University](https://gazi.edu.tr/?language=en_US) in Turkey and a B.Sc. degree in Applied Mathematics from Khayyam University in Iran. In Fall 2022 I started my career as a tenure-track Assisatnt Professor at the A. [Leon Linton Department of Mechanical, Robotics, And Industrial Engineering](https://www.ltu.edu/engineering/mrie) at Lawrence Technological University in Detroit/MI.
+In 2022, I graduated with a Ph.D. from [Industrial and Systems Engineering Department](https://eng.auburn.edu/insy/) at [Auburn University](http://www.auburn.edu/) in Auburn/AL. I hold a M.Sc. degree in [Industrial Engineering](https://mf-em.gazi.edu.tr/?language=en_US) from [Gazi University](https://gazi.edu.tr/?language=en_US) in Turkey and a B.Sc. degree in Applied Mathematics from Khayyam University in Iran. In Fall 2022 I started my career as a tenure-track Assisatnt Professor at the A. [Leon Linton Department of Mechanical, Robotics, And Industrial Engineering](https://www.ltu.edu/engineering/mrie) at Lawrence Technological University in Detroit/MI.
 
 
 Research
@@ -23,4 +23,4 @@ For more details about my research topics and my current work, visit the "Resear
 
 Teaching
 ======
-I had the chance for teaching an undergrad course in Industrial and Systems Engineering Department at Auburn University in Fall 2020. For this course (INSY 3800 Manufacturing Systems I), I was the **instructor of record** and I was able to successfully implement my teaching philosophy. The student evaluations showed that it was a successful semester for me as the instructor. For details of my teaching experience, some sample materials, and evaluations, visit the "Teaching" tab.
+To provide additional information about my teaching experience, please refer to the "Teaching" tab located at the top of this website page. There you will find comprehensive details regarding my teaching background.
