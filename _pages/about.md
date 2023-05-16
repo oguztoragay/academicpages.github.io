@@ -23,4 +23,4 @@ For more details about my research topics and my current work, visit the "Resear
 
 Teaching
 ======
-To provide additional information about my teaching experience, please refer to the "Teaching" tab located at the top of this website page. There you will find comprehensive details regarding my teaching background.
+For more comprehensive information about my teaching experience, kindly navigate to the "Teaching" section located at the top of this webpage. It contains detailed insights and specifics regarding my background in teaching.
