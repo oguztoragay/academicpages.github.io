@@ -42,6 +42,10 @@ This course provided an introduction to the design and operation of manufacturin
 ## *Manufacturing Systems I*
 Classical industrial and systems engineering related to the design and evaluation of manufacturing systems and the understanding of manufacturing processes. The course was taught by [Dr. Richard Garnett](https://eng.auburn.edu/directory/rfg0004).
 
-# Instructor of Records (Fall 2020)
+# At LTU (Since Fall 2022)
 
-## *Manufacturing Systems I*
+## *Production, Planning and Control*
+## *Applied Stochastic Processes (Graduate level course)*
+## *Plant Layout*
+## *Simulation in System Design*
+## *Advanced Optimization Techniques*
