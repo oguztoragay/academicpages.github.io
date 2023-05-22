@@ -49,6 +49,22 @@ Classical industrial and systems engineering related to the design and evaluatio
 Evaluation: 4.58/5
 
 ## *Applied Stochastic Processes (Graduate level course)*
+> *Dr.Oguz were so proactive and show diligence in delivering the class material and provide good platform for the student to choose project topic and also collaborative in all course work avenues.*
+> *Instructor has a well versed knowledge from multiple verticals. But we did not receive any information on current applications of the study.*
+
+Evaluation: 4.64/5
+
 ## *Plant Layout*
+> *Homework assignments shouldn't be graded so harshly in my opinion. The student is still learning the material and sacrificing their grade because of their gaps in misunderstanding is a bit unfair. Other than that I appreciate the constant effort to make sure each student understands every step.*
+
+Evaluation: 4.3/5
+
 ## *Simulation in System Design*
+> *I feel like the in class activities shouldn't be graded based on correctness. The Simio software is intricate and its hard to follow along in class, there is a high chance that a student could miss a step or two. Even if a student is directing their full attention on each step, there are still moments in error. Because this is the first hand experience with the software students are bound to make mistakes. Their grade shouldn't reflect how well they can get the program working on their first try. The grade for these assignments should be based on effort.*
+
+Evaluation: 3.7/5
+
 ## *Advanced Optimization Techniques (Graduate level course)*
+> *This has been my favorite class at LTU so far. I think the applications for these projects in industry are incredibly relevant and Dr. Toragay did a great job with making the homeworks relevant. The only thing I thought could be improved was a review of the key concepts from the later classes where the students presented/taught the class. It was difficult to get the correct information at times, due to some groups lack of grasping of the concepts as well as poor presentation skills.*
+
+Evaluation: 4.38/5
