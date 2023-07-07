@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "about me"
+title: "Oguz Toragay"
 excerpt: " "
 author_profile: true
 redirect_from: 
