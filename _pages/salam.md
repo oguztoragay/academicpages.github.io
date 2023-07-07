@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -27,10 +26,9 @@ redirect_from:
         <!-- Your Markdown content goes here -->
     </div>
 
-    <div id="pdf-display"></div>
+    <iframe id="pdf-display" src="files/OToragay_CV.pdf" width="100%" height="600px" frameborder="0"></iframe>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/markdown-it/12.0.4/markdown-it.min.js"></script>
-    <script src="https://mozilla.github.io/pdf.js/build/pdf.js"></script>
     <script>
         // Parse and render the Markdown content
         var markdownContent = document.getElementById('markdown-content').textContent;
@@ -38,30 +36,6 @@ redirect_from:
         var parsedContent = md.render(markdownContent);
 
         document.getElementById('markdown-content').innerHTML = parsedContent;
-
-        // Function to load and display a PDF
-        function displayPDF(url) {
-            var container = document.getElementById('pdf-display');
-
-            // Load the PDF document using PDF.js
-            PDFJS.getDocument(url).promise.then(function (pdf) {
-                // Get the first page of the PDF
-                pdf.getPage(1).then(function (page) {
-                    var viewport = page.getViewport({ scale: 1 });
-                    var canvas = document.createElement('canvas');
-                    var context = canvas.getContext('2d');
-                    canvas.width = viewport.width;
-                    canvas.height = viewport.height;
-                    container.appendChild(canvas);
-
-                    // Render the PDF page on the canvas
-                    page.render({ canvasContext: context, viewport: viewport });
-                });
-            });
-        }
-
-        // Call the displayPDF function with the URL of the PDF file
-        displayPDF('[path/to/your.pdf](https://github.com/oguztoragay/oguztoragay.github.io/blob/oguztoragay-patch-1/files/OToragay_CV.pdf)https://github.com/oguztoragay/oguztoragay.github.io/blob/oguztoragay-patch-1/files/OToragay_CV.pdf');
     </script>
 </body>
 </html>
