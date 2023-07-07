@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /pages/salam.html/
 author_profile: true
 redirect_from:
   - /resume
