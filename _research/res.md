@@ -1,5 +1,5 @@
 ---
-title: "Research in Additive Manufacturing"
+title: "Research"
 collection: teaching
 permalink: /research/
 ---
