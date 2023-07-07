@@ -10,4 +10,4 @@ main:
     url: /publications/
         
   - title: "CV"
-    url: /cv/
+    url: _pages/my_cv.html
