@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout: archive
 permalink: /my_cv/
 title: "CV"
@@ -23,44 +23,6 @@ author_profile: true
         Updated on: October 2024
     </div>
 
-    <iframe id="pdf-display" src="/files/OToragay_CV_aca.pdf" width="100%" height="600px" frameborder="0"></iframe>
-
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/markdown-it/12.0.4/markdown-it.min.js"></script>
-    <script>
-        // Parse and render the Markdown content
-        var markdownContent = document.getElementById('markdown-content').textContent;
-        var md = window.markdownit();
-        var parsedContent = md.render(markdownContent);
-
-        document.getElementById('markdown-content').innerHTML = parsedContent;
-    </script>
-</body>
-</html> -->
----
-layout: archive
-permalink: /my_cv/
-title: "CV"
-author_profile: true
----
-
-<!DOCTYPE html>
-<html>
-<head>
-    <title>CV</title>
-    <style>
-        /* CSS styles for the PDF displayer */
-        #pdf-display {
-            width: 100%;
-            height: 600px;
-        }
-    </style>
-</head>
-<body>
-    <div id="markdown-content">
-        Updated on: October 2024
-    </div>
-
-    <!-- Display PDF directly in the browser using iframe -->
     <iframe id="pdf-display" src="/files/OToragay_CV_aca.pdf" width="100%" height="600px" frameborder="0"></iframe>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/markdown-it/12.0.4/markdown-it.min.js"></script>
